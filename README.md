@@ -16,7 +16,7 @@ A full-stack campus notification system featuring a Python-based priority engine
 - `/lib`: Shared logic (Theme, Notification API, Scoring).
 - `/github_assets`: Project media and walkthroughs.
 
-## 🛠️ Setup
+## Setup
 
 ### Prerequisites
 - Node.js 18+
