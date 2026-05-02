@@ -52,6 +52,3 @@ python stage1_priority_inbox.py
 
 ## System Design
 See [Notification_System_Design.md](./Notification_System_Design.md) for details on the scoring formula and min-heap algorithm.
-
-## Walkthrough
-![Walkthrough](./github_assets/walkthrough.webp)
